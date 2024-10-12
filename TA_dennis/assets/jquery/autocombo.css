@@ -1,0 +1,26 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+	font-size: 1em;
+}
+
+.ui-draggable, .ui-droppable {
+	background-position: top;
+}
+.custom-combobox {
+		position: relative!important;
+		display: inline-block!important;
+	}
+	.custom-combobox-toggle {
+		position: absolute!important;
+		top: 0!important;
+		bottom: 0!important;
+		margin-left: -1px!important;
+		padding: 0!important;
+	}
+	.custom-combobox-input {
+		margin: 0!important;
+		padding: 5px 10px!important;
+	}
